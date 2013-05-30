@@ -97,4 +97,4 @@
 
 6、创建讨论组
 
-![alt text](http://fmn.xnpic.com/fmn056/20130530/2325/original_9Dir_4494000024ca1191.jpg "用例图1")
+![alt text](http://fmn.xnpic.com/fmn056/20130530/2325/original_9Dir_4494000024ca1191.jpg "创建讨论组序列图")
